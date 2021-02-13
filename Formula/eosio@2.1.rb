@@ -1,4 +1,4 @@
-class Eosio21 < Formula
+class EosioAT21 < Formula
 
    homepage "https://github.com/eosio/eos"
    revision 0

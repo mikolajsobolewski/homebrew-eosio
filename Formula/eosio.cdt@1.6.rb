@@ -1,4 +1,4 @@
-class EosioCdt16 < Formula
+class EosioCdtAT16 < Formula
 
    homepage "https://github.com/eosio/eosio.cdt"
    revision 0
