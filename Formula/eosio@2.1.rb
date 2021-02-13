@@ -6,7 +6,6 @@ class EosioAT21 < Formula
    version "2.1.0-rc2"
 
    option :universal
-   keg_only :versioned_formula
 
    depends_on "gmp"
    depends_on "gettext"
